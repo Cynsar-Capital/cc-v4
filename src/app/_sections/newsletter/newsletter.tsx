@@ -12,9 +12,9 @@ export function Newsletter() {
     >
       <div className="container mx-auto flex flex-col gap-4 px-6 lg:flex-row lg:justify-between">
         <div className="flex flex-col items-start gap-1">
-          <h5 className="text-xl font-medium lg:text-2xl">Stay Ahead of the AI Curve</h5>
+          <h5 className="text-xl font-medium lg:text-2xl">Stay ahead of the curve</h5>
           <p className="text text-text-tertiary dark:text-dark-text-tertiary lg:text-lg">
-            Join our newsletter for exclusive insights and updates on the latest AI trends.
+            Join our newsletter for exclusive insights and updates on the latest market trends.
           </p>
         </div>
 
